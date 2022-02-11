@@ -1,0 +1,46 @@
+{
+  "ice-cream": [
+    {
+      "id": 0,
+      "name": "Ice Cream Heaven",
+      "image": "/images/iceCreamHeaven.svg",
+      "price": 8.5
+    },
+
+    {
+      "id": 1,
+      "name": "Funday Sundae",
+      "price": 8.5
+    },
+    {
+      "id": 2,
+      "name": "Mousse Sundae",
+      "price": 7.5
+    },
+    {
+      "id": 3,
+      "name": "Banana Sundae",
+      "price": 9.5
+    },
+    {
+      "id": 4,
+      "name": "Choco Cone",
+      "price": 8.5
+    },
+    {
+      "id": 5,
+      "name": "Strawberry Cone",
+      "price": 8
+    },
+    {
+      "id": 6,
+      "name": "Super Cone",
+      "price": 9.5
+    },
+    {
+      "id": 7,
+      "name": "Donut Sundae",
+      "price": 8.5
+    }
+  ]
+}
