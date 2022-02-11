@@ -1,0 +1,23 @@
+{
+  "name": "indulge-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom318267/indulge-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tom318267/indulge-api/issues"
+  },
+  "homepage": "https://github.com/tom318267/indulge-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
