@@ -33,8 +33,8 @@
     },
     {
       "id": 5,
-      "name": "Strawberry Cone",
-      "image": "https://media.istockphoto.com/photos/strawberry-ice-cream-cone-picture-id162454628?k=20&m=162454628&s=612x612&w=0&h=fmeqmBpDjG0R1oPjVAiNSnhcC8SJGRcMBrbvEoAYNXE=",
+      "name": "Strawberry Ice Cream",
+      "image": "https://media.istockphoto.com/photos/strawberry-ice-cream-in-bowl-picture-id146791669?k=20&m=146791669&s=612x612&w=0&h=JNwq5XBmlY9ouTQwuwxuuaPVoufFZv_OFsYWraEy6g0=",
       "price": 8
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "id": 7,
-      "name": "Donut Sundae",
-      "image": "https://media.istockphoto.com/photos/bun-clock-picture-id1301365647?k=20&m=1301365647&s=612x612&w=0&h=PQ5ABk8RwiOc6X_DKMprNB1P4LMJKzrQ9IXJ8J2V08U=",
+      "name": "Cookie Sandwich",
+      "image": "https://media.istockphoto.com/photos/chocolate-chip-cookie-ice-cream-sandwich-picture-id186682226?k=20&m=186682226&s=612x612&w=0&h=OKj3Fr2GJ56fE3RdK4z3vujAau5MyQTNdEajwe1CykU=",
       "price": 8.5
     }
   ]
